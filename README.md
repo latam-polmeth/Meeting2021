@@ -48,4 +48,4 @@ All talks and sessions will be held in English in our virtual conference site at
 
 ### Sponsors
 
-<img src="logo_ITAM.png" alt="ITAM" height="45" width="119"> <img src="logo_PolMeth.png" alt="The Society for Political Methodology" height="50"><img src="logo_Princeton.jpg" alt="Princeton University" height="50"><img src="logo_UNC.jpg" alt="University of North Carolina at Chapel Hill" height="50">
+<img src="logo_ITAM.png" alt="ITAM" height="50" width="132" hspace="20"> <img src="logo_PolMeth.png" alt="The Society for Political Methodology" height="50"> <img src="logo_Princeton.jpg" alt="Princeton University" height="50"> <img src="logo_UNC.jpg" alt="University of North Carolina at Chapel Hill" height="50">
