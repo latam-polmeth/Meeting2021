@@ -1,11 +1,11 @@
 <a href="#register">Register</a> | <a href="#program">Program</a> | <a href="#logistics">Logistics</a>
 ---
-<img src="LAPolMeth_Logo.png" alt="LAPolMeth"> 
+<img src="logo_LAPolMeth.png" alt="logo_LAPolMeth"> 
 
-# Latin American Political Methodology Meeting, 2020
+# Latin American Political Methodology Meeting, 2021
 
 
-Welcome! We are excited to announce the fourth Latin American PolMeth meeting. The event will take place on **November 17--20, 2020 in Degy World, a virtual conference campus**. It is hosted by the Universidade de Sāo Paulo, with support from the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill. 
+Welcome! We are excited to announce the fifth Latin American PolMeth meeting. The event will take place on **November 17--20, 2020 in Degy World, a virtual conference campus**. It is hosted by the Universidade de Sāo Paulo, with support from the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill. 
 
 The meeting will feature paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists, including SPM president [Suzanna Linn](https://polisci.la.psu.edu/people/sld8) (Penn State), [Arthur Spirling](http://arthurspirling.org/) (NYU), and [Noam Lupu](https://www.noamlupu.com/) (Vanderbilt). 
 
@@ -39,13 +39,13 @@ All talks and sessions will be held in English in our virtual conference site at
 ### Organizing team
 
 - Lorena Barberia (Universidade de São Paulo, Brazil)
-- Santiago López Cariboni (Universidad de la República, Uruguay)
 - Carmen Le Foulon (Centro de Estudios Públicos, Chile)
-- Santiago Olivella (University of North Carolina at Chapel Hill, USA)
+- John Londregan (Princeton University)
+- Santiago López-Cariboni (Universidad de la República, Uruguay)
+- Adrián Lucardi (ITAM, Mexico)
+- Santiago Olivella (University of North Carolina at Chapel Hill)
+
 
 ### Sponsors
 
-<img src="usp.png" alt="Universidade de Sāo Paulo" height="45" width="220"> <img src="PolMeth.png" alt="Society for Political Methodology" height="50"><img src="princeton.jpg" alt="Princeton University" height="50"><img src="unc.jpg" alt="University of North Carolina at Chapel Hill" height="50">
-
-
-
+<img src="logo_ITAM.png" alt="ITAM" height="45" width="119"> <img src="logo_PolMeth.png" alt="The Society for Political Methodology" height="50"><img src="logo_Princeton.jpg" alt="Princeton University" height="50"><img src="logo_UNC.jpg" alt="University of North Carolina at Chapel Hill" height="50">
