@@ -5,13 +5,14 @@
 # Latin American Political Methodology Meeting, 2021
 
 
-Welcome! We are excited to announce the fifth Latin American Polmeth (LAPolMeth) meeting. The event will take place on **November 19-20, 2021** 
-<p style="color:red;">Red paragraph text</p>
-<mark>- the weekend before Thanksgiving -</mark> employing a hybrid format.
+Welcome! We are excited to announce the fifth Latin American Polmeth (LAPolMeth) meeting. The event will take place on November 19-20, 2021 **- the weekend before Thanksgiving -** employing a hybrid format. The in-person section will be hosted by ITAM in Mexico City, but a limited number of attendees from all over the world will be able to join virtually via **Zoom / Degy World, a virtual conference campus**. The event is sponsored by the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill.
 
-The meeting will feature paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists, including SPM president [Suzanna Linn](https://polisci.la.psu.edu/people/sld8) (Penn State), [Arthur Spirling](http://arthurspirling.org/) (NYU), and [Noam Lupu](https://www.noamlupu.com/) (Vanderbilt). 
+The meeting will feature a limited number of paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists [Jennifer Larsson] (https://www.jmlarson.com/) (Vanderbilt) and **Jens Hainmueller (Stanford)**.
 
-## Apply
+
+## Application process
+
+
 Applications are now **closed**. 
 
 ## Register
