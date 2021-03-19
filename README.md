@@ -1,3 +1,9 @@
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 <a href="#register">Register</a> | <a href="#program">Program</a> | <a href="#logistics">Logistics</a>
 ---
 <img src="logo_LAPolMeth.png" alt="logo_LAPolMeth"> 
@@ -5,7 +11,7 @@
 # Latin American Political Methodology Meeting, 2021
 
 
-Welcome! We are excited to announce the fifth Latin American Polmeth (LAPolMeth) meeting. The event will take place on **November 19-20, 2021** <mark>- the weekend before Thanksgiving -</mark> employing a hybrid format.
+Welcome! We are excited to announce the fifth Latin American Polmeth (LAPolMeth) meeting. The event will take place on **November 19-20, 2021** <mark>the weekend before Thanksgiving</mark> employing a hybrid format.
 
 The meeting will feature paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists, including SPM president [Suzanna Linn](https://polisci.la.psu.edu/people/sld8) (Penn State), [Arthur Spirling](http://arthurspirling.org/) (NYU), and [Noam Lupu](https://www.noamlupu.com/) (Vanderbilt). 
 
