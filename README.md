@@ -14,7 +14,7 @@ The meeting will feature a limited number of paper workshops, a poster session f
 
 The application process will be open through May 31, 2021 **in the following link**. Those interested in attending must indicate paper title, author information, and an abstract not exceeding 250 words. Graduate students must indicate their intention to participate in the poster session.
 
-The organizing team will notify applicants of its decision on June  18, 2021. Applicants will then have the chance to register through July 30, 2021. There is a small registration fee ($10 and $20 for student and non-student SPM members; $25 and $50 for non-members, respectively). To ensure that all participants have enough time to read their paper, participants are required to submit their papers no later than October 31, 2021.
+The organizing team will notify applicants of its decision on June  18, 2021. Applicants will then have the chance to register from June 21 through July 30, 2021. There is a small registration fee ($10 and $20 for student and non-student SPM members; $25 and $50 for non-members, respectively). To ensure that all participants have enough time to read their paper, participants are required to submit their papers no later than October 31, 2021.
 
 
 ## Program
