@@ -7,7 +7,7 @@
 
 Welcome! We are excited to announce the fifth Latin American Polmeth (LAPolMeth) meeting. The event will take place on November 19-20, 2021 employing a hybrid format. The in-person section will be hosted by ITAM in Mexico City, but a limited number of attendees from all over the world will be able to join virtually. The event is sponsored by the Society for Political Methodology, Princeton University, and the University of North Carolina at Chapel Hill.
 
-The meeting will feature a limited number of paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists [Jennifer Larsson](https://www.jmlarson.com/) (Vanderbilt) and [Cyrus Samii](https://cyrussamii.com/) (NYU).
+The meeting will feature a limited number of paper workshops, a poster session for graduate students, and keynote talks by prominent political methodologists [Jennifer Larson](https://www.jmlarson.com/) (Vanderbilt) and [Cyrus Samii](https://cyrussamii.com/) (NYU).
 
 
 ## Application process
@@ -20,8 +20,8 @@ The organizing team will notify applicants of its decision on June  18, 2021. Ap
 ## Program
 
 The program will feature:
--	Two keynote presentations, by [Jennifer Larsson](https://www.jmlarson.com/) (Vanderbilt) and [Cyrus Samii](https://cyrussamii.com/) (NYU).
--	Six manuscript workshop sessions by both theoretical and applied methodologists
+-	Two keynote presentations, by [Jennifer Larson](https://www.jmlarson.com/) (Vanderbilt) and [Cyrus Samii](https://cyrussamii.com/) (NYU).
+-	Manuscript workshop sessions by both theoretical and applied methodologists
 -	One poster session featuring exciting research by graduate students
 
 A copy of the program will be made available [here](https://docs.google.com/document/d/1IVoHIswSK_iGrF0i71uvQWWBm_rNmKH1qZH-FXxY4KQ/edit?usp=sharing) by mid-September.
@@ -42,11 +42,11 @@ All talks, posters and sessions will be held in English.
 The meeting will be held at ITAM's campus in Mexico City, Mexico, on November 19-20, 2021. Registered participants who so desire may attend the event virtually.
 
 ### Organizing team
+- Adrián Lucardi (ITAM, Mexico)
 - Lorena Barberia (Universidade de São Paulo, Brazil)
 - Carmen Le Foulon (Centro de Estudios Públicos, Chile)
 - John Londregan (Princeton University)
 - Santiago López-Cariboni (Universidad de la República, Uruguay)
-- Adrián Lucardi (ITAM, Mexico)
 - Santiago Olivella (University of North Carolina at Chapel Hill)
 
 
