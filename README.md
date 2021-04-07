@@ -45,9 +45,9 @@ The meeting will be held at ITAM's campus in Mexico City, Mexico, on November 19
 - Adrián Lucardi (ITAM, Mexico)
 - Lorena Barberia (Universidade de São Paulo, Brazil)
 - Carmen Le Foulon (Centro de Estudios Públicos, Chile)
-- John Londregan (Princeton University)
+- John Londregan (Princeton University, USA)
 - Santiago López-Cariboni (Universidad de la República, Uruguay)
-- Santiago Olivella (University of North Carolina at Chapel Hill)
+- Santiago Olivella (University of North Carolina at Chapel Hill, USA)
 
 
 ### Sponsors
