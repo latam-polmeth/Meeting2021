@@ -1,4 +1,4 @@
-<a href="#register">[Register](https://www.cambridge.org/core/membership/spm/conferences)</a> | <a href="#program">Program</a> | <a href="#logistics">Logistics</a>
+<a href="#register">[Register](https://www.cambridge.org/core/membership/spm/conferences)</a> | <a href="#program">[Program](https://docs.google.com/document/d/1IVoHIswSK_iGrF0i71uvQWWBm_rNmKH1qZH-FXxY4KQ/edit)</a> | <a href="#logistics">Logistics</a>
 ---
 <img src="logo_LAPolMeth.png" alt="logo_LAPolMeth"> 
 
