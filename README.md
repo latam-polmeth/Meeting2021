@@ -12,9 +12,7 @@ The meeting will feature a limited number of paper workshops, a poster session f
 
 ## Application process
 
-The application process [will be open through June 7, 2021](https://www.cambridge.org/core/membership/spm/conferences). Those interested in attending must indicate paper title, author information, and an abstract not exceeding 3,000 characters. Graduate students must indicate their intention to participate in the poster session.
-
-The organizing team will notify applicants of its decision on June  18, 2021. Applicants will then have the chance to register from June 21 through July 30, 2021. There is a small registration fee ($10 and $20 for student and non-student SPM members; $25 and $50 for non-members, respectively). To ensure that all participants have enough time to read their paper, participants are required to submit their papers no later than November 1, 2021.
+The application process is closed. Interested participants can [register from June 21 through July 30, 2021](https://www.cambridge.org/core/membership/spm/conferences). There is a small registration fee ($10 and $15 for virtual and in-person student attendees; $20 and $30 for non-students, respectively). To ensure that all participants have enough time to read their paper, participants are required to submit their papers no later than November 1, 2021.
 
 
 ## Program
@@ -24,13 +22,13 @@ The program will feature:
 -	Manuscript workshop sessions by both theoretical and applied methodologists
 -	One poster session featuring exciting research by graduate students
 
-A copy of the program will be made available [here](https://docs.google.com/document/d/1IVoHIswSK_iGrF0i71uvQWWBm_rNmKH1qZH-FXxY4KQ/edit?usp=sharing) by mid-September.
+A **preliminary** version of the program is available [here](https://docs.google.com/document/d/1PgdLx9iwLM0_QdtJYdM9nQTYmqK_S22gaB1ocCvOe88/edit?usp=sharing).
 
 
 ## Logistics
 
 ### Event format
-The event will feature parallel paper workshops, which will be restricted to registered participants. Participants may attend either personally or virtually. These sessions will consist of active discussions of previously circulated manuscripts; no presentation will take place. It is therefore imperative that all participants read the papers in advance and prepare feedback to ensure a lively and engaging discussion. To enable all participants to engage in productive conversation, authors are expected to submit complete drafts of their manuscripts no later than October 31, 2021. Authors will be provided with information on where to upload their manuscripts upon confirmation of acceptance.
+The event will feature parallel paper workshops, which will be restricted to registered participants. Participants may attend either personally or virtually. These sessions will consist of active discussions of previously circulated manuscripts; no presentation will take place. It is therefore imperative that all participants read the papers in advance and prepare feedback to ensure a lively and engaging discussion. To enable all participants to engage in productive conversation, authors are expected to submit complete drafts of their manuscripts no later than November 1, 2021. Authors will be provided with information on where to upload their manuscripts upon confirmation of acceptance.
 
 There will be a total of two keynote presentations at the end of each day. These will be open to the public.
 
