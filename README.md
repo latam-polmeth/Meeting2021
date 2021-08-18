@@ -1,4 +1,4 @@
-<a href="#register">[Register](https://www.cambridge.org/core/membership/spm/conferences)</a> | <a href="#program">[Program](https://docs.google.com/document/d/1IVoHIswSK_iGrF0i71uvQWWBm_rNmKH1qZH-FXxY4KQ/edit)</a> | <a href="#logistics">Logistics</a>
+<a href="#register">Register</a> | <a href="#program">Program</a> | <a href="#logistics">Logistics</a>
 ---
 <img src="logo_LAPolMeth.png" alt="logo_LAPolMeth"> 
 
@@ -23,6 +23,7 @@ The program will feature:
 -	One poster session featuring exciting research by graduate students
 
 A **preliminary** version of the program is available [here](https://docs.google.com/document/d/1PgdLx9iwLM0_QdtJYdM9nQTYmqK_S22gaB1ocCvOe88/edit?usp=sharing).
+
 
 
 ## Logistics
