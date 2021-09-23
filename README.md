@@ -37,8 +37,23 @@ The poster session for graduate students will be held at lunchtime on Saturday, 
 
 All talks, posters and sessions will be held in English.
 
+
+
+
 ### Meeting location
-The meeting will be held at ITAM's campus in Mexico City, Mexico, on November 19-20, 2021. Registered participants who so desire may attend the event virtually.
+The meeting will be held at [ITAM's Santa Teresa campus](https://goo.gl/maps/MfN8DvYV2kdp94ic9) in Mexico City, Mexico, on November 19-20, 2021. Registered participants who so desire may attend the event virtually. The Santa Teresa campus is located on [Av. Camino Sta. Teresa #930, Héroes de Padierna, Magdalena Contreras](https://goo.gl/maps/MfN8DvYV2kdp94ic9).
+
+### Transportation from/to the airport
+Uber is legal and works perfectly in Mexico City; a trip to and from the Mexico City International Airport to the Condesa/Roma neighborhood typically costs less than US$12, oftentimes much less. You can also hire a cab from one of the stands located immediately outside the Arrivals hall. They all accept credit cards and have predetermined fares depending on the neighborhood you're going to. They may be a little more expensive than hiring an Uber, though only outside rush hours. For your return flight, you can either use Uber or tell the hotel front-desk to call a cab for you.
+
+### Lodging
+ITAM has arranged a special rate with the [Fiesta Inn Insurgentes Viaducto](https://www.fiestainn.com/es/fiesta-inn-insurgentes-viaducto?gclid=CjwKCAjwy7CKBhBMEiwA0Eb7aovvKNqmSkgqR7fVAiH_EeeP5ZtRUleR3yDmunr0-SdwIT6NJ3t6exoCRWoQAvD_BwE&gclsrc=aw.ds). This hotel is on walking distance from the Consesa/Roma area. If you plan to reserve here, simply inform us and we'll send the corresponding reservation code.
+
+The Condesa neighborhood is great for walking and dining. It is full of hotel and AirBnb options as well. An Uber to and from the Santa Teresa campus generally costs less than US$8. If you prefer to walk to and from the campus, the [Camino Real Pedregal Hotel](https://www.caminoreal.com/en/caminoreal/camino-real-pedregal-mexico) is a good option; it's in front of a shopping center, but note that it is ***not*** in a walkable area.
+
+### Transportation in Mexico City
+Uber works perfectly in Mexico City. It is cheap, safe, can be paid through the regular app, and the city's large size ensures that there are always cars available. Taxis are also generally safe, but typically only accept cash.
+
 
 ### Organizing team
 - Adrián Lucardi (ITAM, Mexico)
