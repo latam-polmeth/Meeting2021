@@ -50,10 +50,10 @@ The Condesa/Roma neighborhood is great for walking and dining. ITAM has arranged
 
 If you prefer another alternative, the Condesa/Roma neighborhood is full of hotel and AirBnb options. An Uber to and from the Santa Teresa campus generally costs less than US$8.
 
-Alternatively, if you prefer to walk to and from the campus, the [Camino Real Pedregal Hotel](https://www.caminoreal.com/en/caminoreal/camino-real-pedregal-mexico) is a good option; it's in front of a shopping center, but note that it is ***not*** in a walkable area.
+Alternatively, if you prefer to walk to and from the campus, the [Camino Real Pedregal](https://www.caminoreal.com/en/caminoreal/camino-real-pedregal-mexico) is a good option; it's in front of a shopping center, but note that it is ***not*** in a walkable area.
 
 ### Transportation in Mexico City
-We will provide transportation to and from the [Fiesta Inn Insurgentes Viaducto Hotel](https://www.fiestainn.com/es/fiesta-inn-insurgentes-viaducto?gclid=CjwKCAjwy7CKBhBMEiwA0Eb7aovvKNqmSkgqR7fVAiH_EeeP5ZtRUleR3yDmunr0-SdwIT6NJ3t6exoCRWoQAvD_BwE&gclsrc=aw.ds) and the Santa Teresa campus for all conference members. Participants who reserve on another hotel can either walk to the Fiesta Inn Insurgentes Viaducto and take the bus, or take an Uber or a cab to the conference. Uber works perfectly in Mexico City. It is cheap, safe, can be paid through the regular app, and the city's large size ensures that there are always cars available. Taxis are also generally safe, but typically only accept cash.
+We will provide transportation to and from the [Fiesta Inn Insurgentes Viaducto](https://www.fiestainn.com/es/fiesta-inn-insurgentes-viaducto?gclid=CjwKCAjwy7CKBhBMEiwA0Eb7aovvKNqmSkgqR7fVAiH_EeeP5ZtRUleR3yDmunr0-SdwIT6NJ3t6exoCRWoQAvD_BwE&gclsrc=aw.ds) and the Santa Teresa campus for all conference members. Participants who reserve on another hotel can either walk to the Fiesta Inn Insurgentes Viaducto and take the bus, or take an Uber or a cab to the conference. Uber works perfectly in Mexico City. It is cheap, safe, can be paid through the regular app, and the city's large size ensures that there are always cars available. Taxis are also generally safe, but typically only accept cash.
 
 
 ### Organizing team
