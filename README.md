@@ -22,7 +22,7 @@ The program will feature:
 -	Manuscript workshop sessions by both theoretical and applied methodologists
 -	One poster session featuring exciting research by graduate students
 
-A **preliminary** version of the program is available [here](https://docs.google.com/document/d/1PgdLx9iwLM0_QdtJYdM9nQTYmqK_S22gaB1ocCvOe88/edit?usp=sharing).
+The conference program is available [here](https://docs.google.com/document/d/1PgdLx9iwLM0_QdtJYdM9nQTYmqK_S22gaB1ocCvOe88/edit?usp=sharing).
 
 
 
