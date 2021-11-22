@@ -19,13 +19,7 @@ Registration for this event is now closed.
 
 
 ## Program
-
-The program will feature:
--	Two keynote presentations, by [Jennifer Larson](https://www.jmlarson.com/) (Vanderbilt) and [Cyrus Samii](https://cyrussamii.com/) (NYU).
--	Manuscript workshop sessions by both theoretical and applied methodologists
--	One poster session featuring exciting research by graduate students
-
-The conference program is available [here](https://docs.google.com/document/d/1PgdLx9iwLM0_QdtJYdM9nQTYmqK_S22gaB1ocCvOe88/edit?usp=sharing).
+The final version of the conference program is available [here](https://docs.google.com/document/d/1PgdLx9iwLM0_QdtJYdM9nQTYmqK_S22gaB1ocCvOe88/edit?usp=sharing).
 
 
 
