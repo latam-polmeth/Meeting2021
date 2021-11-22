@@ -11,8 +11,7 @@ The meeting will feature a limited number of paper workshops, a poster session f
 
 
 ## Application process
-
-The application process is closed. Interested participants can [register from June 21 through October 17, 2021](https://www.cambridge.org/core/membership/spm/conferences). There is a small registration fee ($10 and $15 for virtual and in-person student attendees; $20 and $30 for non-students, respectively). To ensure that all participants have enough time to read their paper, participants are required to submit their papers no later than November 8, 2021.
+Aplications are now *closed*.
 
 
 ## Program
