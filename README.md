@@ -11,7 +11,11 @@ The meeting will feature a limited number of paper workshops, a poster session f
 
 
 ## Application process
-Aplications are now *closed*.
+Aplications are now closed.
+
+
+## Registrarion
+Registration for this event is now closed.
 
 
 ## Program
